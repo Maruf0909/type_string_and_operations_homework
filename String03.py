@@ -6,4 +6,7 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    s1 = "video"
+    s2 = len(s1)
+    return "*" * s2
+print(main())
