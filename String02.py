@@ -6,4 +6,8 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    s1 = "codeschooluz"
+    s2 = str. upper(s1)
+
+    return s2
+print(main())
