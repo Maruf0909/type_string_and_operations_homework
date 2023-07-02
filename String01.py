@@ -5,4 +5,9 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    s1 ="12345678"
+    
+
+
+    return s1
+print(main())
